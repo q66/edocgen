@@ -1,5 +1,7 @@
 # docgen
 
+**MERGED INTO EFL GIT MASTER, USE THAT INSTEAD**
+
 This is the upcoming documentation generator for EFL. It takes documentation
 described in Eo files and turns it into a DokuWiki structure (with possibility
 of adapting it to other systems later on).
